@@ -50,6 +50,7 @@
   "dependencies": {
     "@contentful/rich-text-html-renderer": "^16.0.3",
     "@contentful/rich-text-types": "^16.0.3",
+    "@netlify/plugin-nextjs": "^4.36.0",
     "@uniformdev/canvas": "18.33.0",
     "@uniformdev/canvas-next": "18.33.0",
     "@uniformdev/canvas-react": "18.33.0",
